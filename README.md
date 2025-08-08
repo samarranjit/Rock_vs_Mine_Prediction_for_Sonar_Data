@@ -80,24 +80,33 @@ git clone https://github.com/your-username/sonar-rocks-vs-mines.git
 cd sonar-rocks-vs-mines
 ```
 
-## 2️⃣ Install Dependencies
+## 2️⃣ Open the Jupyter Notebook
+This repository contains a Jupyter Notebook file (.ipynb). You can run it in two ways:
+
+**Option A — Run Locally**
+
+1. Ensure you have Python and Jupyter installed.
+
+2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
-
-## 3️⃣ Run the Script
-
-```python
-python sonar_rocks_vs_mines_prediction.py
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook
 ```
+4. Open the notebook file and run all the cells.
 
-Or open the notebook in Google Colab:
+**Option B - Open the notebook in Google Colab:**
 
-1. Upload the .ipynb notebook to Colab.
+1. Open the notebook file on GitHub.
 
-2. Mount Google Drive if the dataset is stored there.
+2. Click the Colab link provided at the top of the notebook.
 
-3. Run all cells.
+3. If the dataset is stored in Google Drive, mount it when prompted.
+
+4. Run all cells.
 ---
 
 ## 📚 Key Learnings from This Project
