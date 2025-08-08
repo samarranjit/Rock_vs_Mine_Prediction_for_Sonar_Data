@@ -8,7 +8,7 @@ A **machine learning classification project** that predicts whether an object de
 
 | Category      | Details                                                                                  |
 | ------------- | ---------------------------------------------------------------------------------------- |
-| 📊 Dataset    | [UCI Machine Learning Repository - Sonar Dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+(sonar,+mines+vs.+rocks)) |
+| 📊 Dataset    | [UCI Machine Learning Repository - Sonar Dataset](https://docs.google.com/spreadsheets/d/1jKZedVzxT2zuL4pMM2YGbOl3i1F8VSW9WX3usxq0RQ4/edit?usp=sharing)) |
 | 📌 Goal       | Predict whether the sonar reading corresponds to a rock (`R`) or a mine (`M`)            |
 | ⚙️ Model      | Logistic Regression (Binary Classification)                                              |
 | 🧪 Evaluation | Accuracy Score on Training & Testing Data                                                |
@@ -117,3 +117,39 @@ Through this project, I learned to:
 
 ```python
 input_data = (0.0117,0.0069,0.0279,...,0.0062,0.0026,0.0052)
+```
+✅ Output:
+
+```bash
+The object is a Rock
+```
+or,
+```bash
+The object is a Mine
+```
+---
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+---
+
+## 🙋‍♂️ About the Author
+
+**Samar Ranjit**  
+📍 Undergraduate Research Assistant | Texas State University  
+🔭 Exploring ML, AI, and Geospatial Analytics in Agriculture  
+💡 Enthusiastic ML learner, actively seeking opportunities to collaborate on innovative projects  
+🔗 [LinkedIn](https://www.linkedin.com/in/samarranjit)  
+📨 Email: [samar.ranjit@txstate.edu](mailto:samarranjit@txstate.edu)  
+
+---
+
+## 🌟 Want to Collaborate?
+
+- ⭐ Star this repository if you found it useful.  
+- 🤝 Open to collaborations in **Machine Learning**, **AI**, and **Geospatial Data Science**.  
+- 📩 Feel free to connect for internships, research, or open-source projects.
+
+---
+
+
